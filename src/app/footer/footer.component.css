@@ -1,0 +1,10 @@
+.footer{
+  width:100%;
+  height:auto;
+  background-color:blue;
+}
+
+html{
+  overflow-x:hidden;
+  overflow-y:scroll;
+}
